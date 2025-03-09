@@ -1,0 +1,9 @@
+Data - 
+The project utilized diverse datasets from reputable sources:
+- Housing Price Data: Zillow House Price Data, serving as the primary dataset containing historical housing price information at the ZIP code level.
+- Unemployment Rates: OECD Unemployment Rate, providing insights into regional economic stability and employment conditions influencing housing demand.
+- Gasoline Prices: Energy Information Administration (EIA), representing transportation and fuel costs impacting consumer budgets and housing location preferences.
+- Inflation Data: Consumer Price Index (CPI), essential for understanding purchasing power and general economic conditions influencing housing affordability.
+- Mortgage Data: National Mortgage Database by FHFA, crucial for assessing mortgage market conditions, lending rates, and home affordability.
+- Interest Rates: Federal Funds Rate, directly affecting mortgage rates and home-buying capacity.
+These datasets collectively enhanced the predictive capability of the model by providing comprehensive economic, geographic, and temporal contexts.
